@@ -5,13 +5,13 @@
 
 ## 1. Acceptance of These Terms
 
-These Terms of Service ("Terms") govern the use of Nexus Guardian ("the Bot"), a Discord application that provides moderation, anti-spam, suspicious-link detection, logging, and server configuration features.
+These Terms of Service ("Terms") govern the use of Nexus ("the Bot"), a Discord application that provides moderation, anti-spam, suspicious-link detection, logging, and server configuration features.
 
 By inviting, configuring, or using the Bot, you agree to these Terms. If you do not agree, do not use the Bot.
 
 ## 2. Description of the Service
 
-Nexus Guardian provides tools that may include:
+Nexus provides tools that may include:
 
 - Warnings and moderation commands.
 - Timeouts, kicks, bans, and related administrative actions.
@@ -61,7 +61,7 @@ The Bot operator is not responsible for independent decisions made by server adm
 
 ## 6. Data and Privacy
 
-The Bot may process Discord identifiers, moderation records, server configuration, message-related information, and event logs as described in the Nexus Guardian Privacy Policy.
+The Bot may process Discord identifiers, moderation records, server configuration, message-related information, and event logs as described in the Nexus  Privacy Policy.
 
 By using the Bot, you acknowledge that such processing is necessary for the relevant features.
 
@@ -110,6 +110,5 @@ These Terms are subject to applicable law. Any mandatory consumer rights or othe
 ## 13. Contact
 
 For questions about these Terms or the Bot, contact:
-
-**Nexus Guardian operator:** [YOUR DEVELOPER NAME OR PROJECT NAME]  
-**Email:** [INSERT YOUR CONTACT EMAIL]
+ 
+**Email:** sa1ntax17@gmail.com
