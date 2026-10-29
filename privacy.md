@@ -1,11 +1,11 @@
-# Nexus Guardian — Privacy Policy
+# Nexus — Privacy Policy
 
 **Effective date:** October 27, 2026  
 **Last updated:** October 27, 2026
 
 ## 1. Introduction
 
-Nexus Guardian ("the Bot") is a Discord bot that provides moderation, anti-spam, suspicious-link detection, event logging, and server configuration features.
+Nexus ("the Bot") is a Discord bot that provides moderation, anti-spam, suspicious-link detection, event logging, and server configuration features.
 
 This Privacy Policy explains what information the Bot processes, why it is processed, and how users and server administrators can request information about or deletion of stored data.
 
@@ -70,7 +70,7 @@ Some records may need to be retained for legitimate operational, security, or le
 
 To submit a request, contact:
 
-**Contact email:** [INSERT YOUR CONTACT EMAIL]
+**Contact email:** sa1ntax17@gmail.com
 
 ## 8. Children's Privacy
 
@@ -84,5 +84,4 @@ This Policy may be updated as the Bot's functionality, data handling, or applica
 
 For questions about this Privacy Policy or data handling, contact:
 
-**Nexus Guardian operator:** [YOUR DEVELOPER NAME OR PROJECT NAME]  
-**Email:** [INSERT YOUR CONTACT EMAIL]
+**Email:** sa1ntax17@gmail.com
